@@ -6,5 +6,5 @@ https://codepen.io/tdoughty/pen/bGGZWqg
 Check it out with the netlify link: 
 https://firewatchnight.netlify.app/
 
-Also check out the day version with signature firewatch colors:
+Also check out the day version with signature Firewatch colors:
 https://github.com/dodobeep/Firewatch-day
